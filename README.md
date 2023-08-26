@@ -53,6 +53,7 @@ Automate Payroll Process
     Click Button Model    Payroll    add_payroll    addButton    ${uiModels}
     
     Close Workbook
+```
 
-
-
+## License
+Licensed under the [MIT license](https://github.com/bptlab/MdRPA_Library/blob/main/LICENSE).
