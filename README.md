@@ -55,13 +55,6 @@ Automate Payroll Process
     Close Workbook
 ```
 
-## License
-Licensed under the [MIT license](https://github.com/bptlab/MdRPA_Library/blob/main/LICENSE).
-
-
-
-
-
 ## Available Custom Functions
 
 
@@ -142,3 +135,5 @@ ${uiModels}=    Get Ui Models    ${apiEndpoint}
 1. ${apiEndpoint} (string): The endpoint URL of your own API that returns a list of available UI models.
 
 
+## License
+Licensed under the [MIT license](https://github.com/bptlab/MdRPA_Library/blob/main/LICENSE).
